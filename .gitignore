@@ -1,0 +1,18 @@
+# Archivos sensibles
+.env
+
+# Archivos generados automáticamente
+Reporte_Semanal.pdf
+grafico_ventas.png
+
+# Archivos temporales
+__pycache__/
+*.pyc
+
+# Archivos de entorno
+.vscode/
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
